@@ -8,10 +8,10 @@ Usage:
 $ waybackclosest <url>
 ```
 
-See the test for example.
-
 To install:
 
 ```
 go get github.com/spudtrooper/waybackclosest
 ```
+
+See https://github.com/spudtrooper/wayback/blob/main/wayback_test.go for example.
