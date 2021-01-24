@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./wayback"
 	"flag"
 	"fmt"
+	"github.com/spudtrooper/wayback"
 	"log"
 )
 
